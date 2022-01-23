@@ -6,7 +6,7 @@ title: Dogyoon Lee
 superuser: true
 
 # Role/position/tagline
-role: Ph.D of 3D Computer Vision
+role: Integrated M.S/Ph.D of 3D Computer Vision
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,12 +26,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D in Computer Vision
+  - course: Integrated M.S/Ph.D in Computer Vision
     institution: Yonsei University
-    year: 2021~
-  - course: MS in Computer Vision
-    institution: Yonsei University
-    year: 2021
+    year: 2019~
+  # - course: MS in Computer Vision
+  #   institution: Yonsei University
+  #   year: 2021
   - course: BSc in Electrical Electronics
     institution: Yonsei University
     year: 2019
@@ -71,6 +71,9 @@ email: ""
 highlight_name: true
 ---
 
-**Dogyoon Lee** is a *Ph.D* of 2D/3D computer vision at Image and Video Pattern Recognition Lab in Yonsei University. His research interests include *2D/3D Computer Vision*, *Computer Graphics*, *Machine Learning*, and *Implicit Neural Representation*. 
+I am an integrated M.S/Ph.D student of computer vision at Yonsei University. I am interested in exploring 2D/3D Computer Vision, Computer Graphics and Implicit Neural Representation including .
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/220123_Resume_Do_Gyoon_Lee.pdf" "newtab" >}}resumé{{< /staticref >}}.
+To know more about me, please check out {{< staticref "uploads/220123_Resume_Do_Gyoon_Lee.pdf" "newtab" >}}CV{{< /staticref >}}.
+ or visit my [Github](https://github.com/dogyoonlee).
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/220123_Resume_Do_Gyoon_Lee.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

@@ -29,9 +29,9 @@ address:
   postcode: '04727'
   country: South Korea
   country_code: KR
-coordinates:
-  latitude: 'None'
-  longitude: 'None'
+# coordinates:
+  # latitude: 'None'
+  # longitude: 'None'
 directions: None
 office_hours:
   - 'Monday-Friday 10:00 to 18:00'
