@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'Regularization Strategy for Point Cloud via Rigidly Mixed Sample'
 
 content:
   # Filter on criteria
