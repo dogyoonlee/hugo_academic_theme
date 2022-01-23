@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: DogyoonLee's Blog' # Website name
+title: DogyoonLee # Website name
 baseurl: 'https://dogyoonlee.github.io' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
@@ -37,6 +37,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
+  post: '/:year/:month/:slug/'
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
