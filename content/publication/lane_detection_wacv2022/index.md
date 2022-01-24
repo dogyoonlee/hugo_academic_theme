@@ -7,7 +7,7 @@ title: "Robust lane detection via expanded self attention"
 authors:
 - Minhyeok Lee
 - Junhyeop Lee
-- Dogyoon Lee
+- admin
 - Woojin Kim
 - Sangwon Hwang
 - Sangyoun Lee

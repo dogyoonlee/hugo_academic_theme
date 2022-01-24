@@ -5,7 +5,7 @@ title: "Regularization Strategy for Point Cloud via Rigidly Mixed Sample"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Dogyoon Lee
+- admin
 - Jaeha Lee
 - Junhyeop Lee
 - Hyeongmin Lee
@@ -40,7 +40,7 @@ abstract: Data augmentation is an effective regularization strategy to alleviate
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: [CVPR]
 
 # Display this page in the Featured widget?
 featured: true
