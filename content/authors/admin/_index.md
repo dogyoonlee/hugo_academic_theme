@@ -11,7 +11,7 @@ role: Integrated M.S/Ph.D of 3D Computer Vision
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Image and Video Pattern Recognition Lab
-  url: https://http://mvp.yonsei.ac.kr/
+  url: http://mvp.yonsei.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 2D/3D computer vision, Computer Graphics and Machine Learning.
