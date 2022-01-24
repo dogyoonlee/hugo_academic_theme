@@ -30,8 +30,8 @@ publishDate: "2021-03-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In ICT Express
-publication_short: In ICT Express
+publication: In Information and Communications Technology(ICT Express)
+publication_short: In ICT Express 2021
 
 abstract: We propose a preprocessing system that transforms the real world into 3D mesh virtual world to provide augmented reality (AR) services. The proposed system uses a monocular RGB camera to obtain sequential images to generate real space. First, we create 3D real-world space composed of point clouds using sequential color images. And then, we segment the objects in each color image and assign an identification number for each object. Also, we execute ‘3D point labeling’, which assigns identification numbers from 2D segmented object to 3D point cloud through a simple projection manner with several parameters. This process could collect 3D point cloud with same the label by as an object. Finally, only the 3D point clouds that have the same identification number by as an object are used to generate 3D mesh. This paper confirmed that 3D mesh could be created using the only general monocular camera without the help of special 3D sensors.
 
