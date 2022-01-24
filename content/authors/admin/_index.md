@@ -73,7 +73,7 @@ highlight_name: true
 
 I am an integrated M.S/Ph.D student of computer vision at Yonsei University. I am interested in exploring 2D/3D Computer Vision, Computer Graphics and Implicit Neural Representation.
 
-To know more about me, please check out my{{< staticref "uploads/220123_Resume_Do_Gyoon_Lee.pdf" "newtab" >}}CV{{< /staticref >}}
+To know more about me, please check out my {{< staticref "uploads/220123_Resume_Do_Gyoon_Lee.pdf" "newtab" >}}CV{{< /staticref >}}
  or visit my [Github](https://github.com/dogyoonlee).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/220123_Resume_Do_Gyoon_Lee.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
