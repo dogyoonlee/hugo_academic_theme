@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dogyoon Lee
+title: Do-Gyoon Lee
 
 # Is this the primary user of the site?
 superuser: true
